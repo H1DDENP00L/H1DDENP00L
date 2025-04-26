@@ -1,14 +1,10 @@
 
-# How do you do fellow kids?
+# [Burovichok](https://github.com/lifedaemon-kill/burovichok-desktop) co-founder 
 
-### mindset:
-
-- ~~Frontend~~
-
-- __Backend__
+- __Backend Go Developer__
 
 
-### Моя фотокарточка вот это я рибята:
+### Мое фото на паспорт:
 
 <div>
 	<img
