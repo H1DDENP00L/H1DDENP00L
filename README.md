@@ -2,7 +2,7 @@
 # [Burovichok](https://github.com/lifedaemon-kill/burovichok-desktop) co-founder 
 
 - __Backend Go Developer__
-
+- __Rosneft Hackathon Winner__
 
 ### Мое фото на паспорт:
 
